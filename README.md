@@ -14,13 +14,13 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Screenshot
 
-![Screenshot](./screenshot.png)
+![Screenshot](./assets/images/screenshot.png)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Click to see my solution](https://github.com/Eve-Wangari/recipe-page-)
+- Live Site URL: [live site](https://github.com/Eve-Wangari/recipe-page-/)
 
 
 

@@ -1,0 +1,92 @@
+*{
+
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+   background-color: hsl(30, 18%, 87%);
+   font-size: 16px;
+   color:hsl(24, 5%, 18%);
+
+  
+}
+.main-container{
+    width: 40%;
+    margin: 40px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 0.5em;
+    line-height: 1.3;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+img{
+    border-radius: 0.5em;
+    height: 200px;
+    width: 100%;
+}
+header h1{
+    color:black;
+}
+.outfit{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS';
+    color:hsl(14, 45%, 36%);
+}
+
+.pink{
+    color:hsl(332, 51%, 32%);
+    font-weight: bold;
+
+}
+.preparation{
+    padding: 2em;
+    border-radius: .5em;
+    background-color: hsl(30, 54%, 90%);
+
+}
+.preparation ul{
+    margin-left: 21px;
+    line-height: 1.8;
+}
+
+ul,ol{
+    margin-left:21px ;
+    line-height: 1.8;
+}
+hr{
+    color: hsl(30, 18%, 87%);
+}
+.table{
+    width:50%;
+}
+.table td{
+    padding: 14px 16px;
+    border-bottom: 1px solid hsl(30, 18%, 87%);
+
+}
+.table td:last-child{
+    color: hsl(14, 45%, 36%);
+    font-weight: bold;
+}
+@media (max-width:700px){
+    body{
+        font-size: 14px;
+    }
+    img{
+        border-radius:0;
+        width: 100%;
+    }
+    .preparation{
+        margin: 1em;
+    }
+    .main-container{
+        width: 100%;
+        padding: 0%;
+        margin: 0;
+    }
+    header,
+    section{
+      padding: 20px;
+    }
+
+
+}
